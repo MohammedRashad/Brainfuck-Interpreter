@@ -12,11 +12,11 @@ Brainfuck was invented by Urban Müller in 1993, in an attempt to make a languag
 
 Brainfuck operates on an array of memory cells, also referred to as the tape, each initially set to zero. There is a pointer, initially pointing to the first memory cell. The commands are:
 
-">"	   Move the pointer to the right. 
-"<"	   Move the pointer to the left. 
-"+" 	 Increment the memory cell under the pointer. 
-"-" 	 Decrement the memory cell under the pointer. 
-"."	   Output the character signified by the cell at the pointer. 
-","	   Input a character and store it in the cell at the pointer. 
-"["    Jump past the matching ] if the cell under the pointer is 0. 
-"]"	   Jump back to the matching [ if the cell under the pointer is non-zero. 
+- ">"	   Move the pointer to the right. 
+- "<"	   Move the pointer to the left. 
+- "+" 	 Increment the memory cell under the pointer. 
+- "-" 	 Decrement the memory cell under the pointer. 
+- "."	   Output the character signified by the cell at the pointer. 
+- ","	   Input a character and store it in the cell at the pointer. 
+- "["    Jump past the matching ] if the cell under the pointer is 0. 
+- "]"	   Jump back to the matching [ if the cell under the pointer is non-zero. 
