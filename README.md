@@ -33,4 +33,10 @@ In this implementation I added 2 new commands (mainly to be used for debugging) 
 - Scripting Mode & Normal Mode.
 - 10 commands instead of the original eight.
 
+#Sample Code 
+This program prints "Hello World!"
+
+    ++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++.>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.------.--------.>+.>.
+
+#
 **This Project is signed under GPL 3.0 , You're free to use and redistribute under the terms of the license.**
