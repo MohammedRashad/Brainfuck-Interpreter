@@ -1,4 +1,4 @@
-# Brainfuck-Interpreter
+# Brainfuck Interpreter
 
 A slightly improved implementation of Brainfuck esoteric programming language.
 
@@ -20,3 +20,17 @@ Brainfuck operates on an array of memory cells, also referred to as the tape, ea
 - ","	   Input a character and store it in the cell at the pointer. 
 - "["    Jump past the matching ] if the cell under the pointer is 0. 
 - "]"	   Jump back to the matching [ if the cell under the pointer is non-zero. 
+
+In this implementation I added 2 new commands (mainly to be used for debugging) :
+
+- "#"    Prints The Current Instruction.
+- "$"    Prints The Current Cell Address.
+
+#Features 
+
+- Written in C++.
+- Turing Complete Language.
+- Scripting Mode & Normal Mode.
+- 10 commands instead of the original eight.
+
+**This Project is signed under GPL 3.0 , You're free to use and redistribute under the terms of the license.**
