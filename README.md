@@ -29,7 +29,8 @@ In this implementation I added 2 new commands (mainly to be used for debugging) 
 #Features 
 
 - Written in C++.
-- Turing Complete Language.
+- Turing-Trapit Language.
+- Turing-Complete Language.
 - Scripting Mode & Normal Mode.
 - 10 commands instead of the original eight.
 
