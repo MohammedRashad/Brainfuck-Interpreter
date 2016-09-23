@@ -33,6 +33,11 @@ In this implementation I added 2 new commands (mainly to be used for debugging) 
 - Scripting Mode & Normal Mode.
 - 10 commands instead of the original eight.
 
+#To Do
+
+- Improve Memory Management Stuff
+- Fix minor bugs
+
 #Sample Code 
 This program prints "Hello World!"
 
