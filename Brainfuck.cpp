@@ -117,5 +117,8 @@ void Brainfuck::interpretCode(char* code) {
 
 
     cout << "\n\n\n";
+    
+    delete codePtr;
+    delete tapePtr;
 
 }
